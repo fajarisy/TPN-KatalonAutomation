@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Partner</name>
+   <tag></tag>
+   <elementGuidId>9ce53baf-6638-4566-8fd1-3be9f4ca50a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.vx-autocomplete-search.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e15b36b9-cff2-422a-8de0-f38e377701c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7a6ce9c4-12d0-4959-a9fc-77db7583bd80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vx-autocomplete-search form-control</value>
+      <webElementGuid>51c25030-cb07-4eb6-8763-e9bcfff8c623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search and select partner</value>
+      <webElementGuid>4b1d4ee0-ac54-4e6d-bb40-b86a7851f07d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper vertical-layout theme-primary menu-collapsed navbar-sticky&quot;]/div[@class=&quot;app-content content&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;mt-0 pt-0 row&quot;]/div[@class=&quot;pl-0 col-md-9&quot;]/div[@class=&quot;tab-content&quot;]/div[1]/div[@class=&quot;tab-pane&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;pb-0 card-body&quot;]/div[@class=&quot;mb-1 row&quot;]/div[@class=&quot;col-md-6 col-lg-6&quot;]/div[@class=&quot;form-group has-icon-right position-relative&quot;]/div[1]/div[@class=&quot;input-group&quot;]/input[@class=&quot;vx-autocomplete-search form-control&quot;]</value>
+      <webElementGuid>45d87668-42d3-43ae-a4db-cdaa22179d06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>526bebc0-bcdb-478e-a20f-cb007bd72c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div/div[4]/div[2]/div/div/div/div/div/div[2]/div/div/div/div/input</value>
+      <webElementGuid>ad9c4b02-a898-4306-9937-e870690fef5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/input</value>
+      <webElementGuid>fd6693db-e373-4441-bda9-e340420c688b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search and select partner']</value>
+      <webElementGuid>e960145d-e853-49fe-85d5-6c989c75d0c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

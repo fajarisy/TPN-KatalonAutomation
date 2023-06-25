@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Companion</name>
+   <tag></tag>
+   <elementGuidId>0b25f741-08a6-4351-96f4-fba55d21af00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;companion&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='companion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a5d21c7e-5074-4f5e-ab9d-8211a02748ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>companion</value>
+      <webElementGuid>dad13742-d125-4e19-9841-26d7a50caada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-select form-control</value>
+      <webElementGuid>13c4bdac-eaaf-4644-a1db-22ad6a37d4fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selected companionCHAPTER DATA SCIENCE &amp; AICHAPTER DESIGN &amp; EXPERIENCECHAPTER DIGITAL PRODUCT ENGCHAPTER DIGITAL PRODUCT MANAGERCX &amp; CED STRATEGYCX CHANGE MANAGEMENT &amp; EVALUATIONCX MEASUREMENT &amp; PERFORMANCECX PROGRAM PLANNING &amp; SUB-DIV PERFDATA MGT, ANALYTICS &amp; GOVERNANCEDIGITAL BUSINESS ENABLERDIGITAL BUSINESS PARENTINGDIGITAL BUSINESS PLANNING &amp; GOVERNANCEDIGITAL BUSS PERFORMANCE &amp; INTELLIGENCEDIGITAL INFRASTRUCTURE &amp; SECURITYDIGITAL MARKET MANAGEMENTDIGITAL PARTNERSHIP MANAGEMENTDIGITAL PLATFORM STRATEGY &amp; ALIGNMENTDIGITAL PRODUCT &amp; TARIFFDIGITAL PROGRAM MANAGEMENTDIGITAL SERVICE STRATEGY &amp; ALIGNMENTDIGITIZATION PROGRAM PLANNINGEMERGING TECHNOLOGY PLATFORMFINTECH &amp; INTEGRATION PLATFORMINDIGO MANAGEMENTPOOL OF INNOVATOR &amp; EXPERTSERVICE OPERATION MANAGEMENTTRIBE AGRICULTURE &amp; FARMTRIBE AQUACULTURE &amp; FISHERYTRIBE BIG DATA &amp; SMART PLATFORMTRIBE CONSUMER DIGITALIZATIONTRIBE CONSUMER INTERNAL CEDTRIBE DIGITAL SERV DIGITIZATIONTRIBE E-HEALTHTRIBE EDUCATIONTRIBE ENT, WHLS &amp; GOV DIGITALTRIBE ENTERPRISE &amp; WHOLESALE CEDTRIBE IOT PLATFORM &amp; SERVICESTRIBE LIFESTYLETRIBE LOGISTIC CONTROL TOWERTRIBE LOGISTIC DISTRIBUTIONTRIBE LOGISTIC TRANSPORTATIONTRIBE MYINDIHOMEXTRIBE PRE-VACCINATIONTRIBE SMART VILLAGES &amp; COMMUNITYTRIBE SMB DIGITALIZATIONTRIBE VACCINATION &amp; PL</value>
+      <webElementGuid>0aebb9da-34e4-49b0-b6d6-c16b53dad297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper vertical-layout theme-primary navbar-sticky&quot;]/div[@class=&quot;app-content content&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-sm-12 col-md-5&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;dropdown-select form-control&quot;]</value>
+      <webElementGuid>dbea9616-9c9d-4e02-85f9-5de0dae963b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='companion']</value>
+      <webElementGuid>dcd60628-17ae-4711-b66a-a70b75c03bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div/div[3]/div[2]/div/div/div/div/div[11]/div/div/select</value>
+      <webElementGuid>7e63f88b-a52c-4d59-85a0-465a3cf7c5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::select[1]</value>
+      <webElementGuid>962682bf-c93b-4508-94a8-44211b56b126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/preceding::select[1]</value>
+      <webElementGuid>3ed73f1f-0190-4b37-aa33-66c6a68633b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/select</value>
+      <webElementGuid>331bb634-2e6e-4fd4-beab-1bfed856d848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'companion' and (text() = 'Selected companionCHAPTER DATA SCIENCE &amp; AICHAPTER DESIGN &amp; EXPERIENCECHAPTER DIGITAL PRODUCT ENGCHAPTER DIGITAL PRODUCT MANAGERCX &amp; CED STRATEGYCX CHANGE MANAGEMENT &amp; EVALUATIONCX MEASUREMENT &amp; PERFORMANCECX PROGRAM PLANNING &amp; SUB-DIV PERFDATA MGT, ANALYTICS &amp; GOVERNANCEDIGITAL BUSINESS ENABLERDIGITAL BUSINESS PARENTINGDIGITAL BUSINESS PLANNING &amp; GOVERNANCEDIGITAL BUSS PERFORMANCE &amp; INTELLIGENCEDIGITAL INFRASTRUCTURE &amp; SECURITYDIGITAL MARKET MANAGEMENTDIGITAL PARTNERSHIP MANAGEMENTDIGITAL PLATFORM STRATEGY &amp; ALIGNMENTDIGITAL PRODUCT &amp; TARIFFDIGITAL PROGRAM MANAGEMENTDIGITAL SERVICE STRATEGY &amp; ALIGNMENTDIGITIZATION PROGRAM PLANNINGEMERGING TECHNOLOGY PLATFORMFINTECH &amp; INTEGRATION PLATFORMINDIGO MANAGEMENTPOOL OF INNOVATOR &amp; EXPERTSERVICE OPERATION MANAGEMENTTRIBE AGRICULTURE &amp; FARMTRIBE AQUACULTURE &amp; FISHERYTRIBE BIG DATA &amp; SMART PLATFORMTRIBE CONSUMER DIGITALIZATIONTRIBE CONSUMER INTERNAL CEDTRIBE DIGITAL SERV DIGITIZATIONTRIBE E-HEALTHTRIBE EDUCATIONTRIBE ENT, WHLS &amp; GOV DIGITALTRIBE ENTERPRISE &amp; WHOLESALE CEDTRIBE IOT PLATFORM &amp; SERVICESTRIBE LIFESTYLETRIBE LOGISTIC CONTROL TOWERTRIBE LOGISTIC DISTRIBUTIONTRIBE LOGISTIC TRANSPORTATIONTRIBE MYINDIHOMEXTRIBE PRE-VACCINATIONTRIBE SMART VILLAGES &amp; COMMUNITYTRIBE SMB DIGITALIZATIONTRIBE VACCINATION &amp; PL' or . = 'Selected companionCHAPTER DATA SCIENCE &amp; AICHAPTER DESIGN &amp; EXPERIENCECHAPTER DIGITAL PRODUCT ENGCHAPTER DIGITAL PRODUCT MANAGERCX &amp; CED STRATEGYCX CHANGE MANAGEMENT &amp; EVALUATIONCX MEASUREMENT &amp; PERFORMANCECX PROGRAM PLANNING &amp; SUB-DIV PERFDATA MGT, ANALYTICS &amp; GOVERNANCEDIGITAL BUSINESS ENABLERDIGITAL BUSINESS PARENTINGDIGITAL BUSINESS PLANNING &amp; GOVERNANCEDIGITAL BUSS PERFORMANCE &amp; INTELLIGENCEDIGITAL INFRASTRUCTURE &amp; SECURITYDIGITAL MARKET MANAGEMENTDIGITAL PARTNERSHIP MANAGEMENTDIGITAL PLATFORM STRATEGY &amp; ALIGNMENTDIGITAL PRODUCT &amp; TARIFFDIGITAL PROGRAM MANAGEMENTDIGITAL SERVICE STRATEGY &amp; ALIGNMENTDIGITIZATION PROGRAM PLANNINGEMERGING TECHNOLOGY PLATFORMFINTECH &amp; INTEGRATION PLATFORMINDIGO MANAGEMENTPOOL OF INNOVATOR &amp; EXPERTSERVICE OPERATION MANAGEMENTTRIBE AGRICULTURE &amp; FARMTRIBE AQUACULTURE &amp; FISHERYTRIBE BIG DATA &amp; SMART PLATFORMTRIBE CONSUMER DIGITALIZATIONTRIBE CONSUMER INTERNAL CEDTRIBE DIGITAL SERV DIGITIZATIONTRIBE E-HEALTHTRIBE EDUCATIONTRIBE ENT, WHLS &amp; GOV DIGITALTRIBE ENTERPRISE &amp; WHOLESALE CEDTRIBE IOT PLATFORM &amp; SERVICESTRIBE LIFESTYLETRIBE LOGISTIC CONTROL TOWERTRIBE LOGISTIC DISTRIBUTIONTRIBE LOGISTIC TRANSPORTATIONTRIBE MYINDIHOMEXTRIBE PRE-VACCINATIONTRIBE SMART VILLAGES &amp; COMMUNITYTRIBE SMB DIGITALIZATIONTRIBE VACCINATION &amp; PL')]</value>
+      <webElementGuid>2436109f-a248-4194-b9f6-c023b70293ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
